@@ -16,6 +16,3 @@ mod 'apach',
   :git    => 'https://github.com/zia8m/apach.git',
   :ref => 'production'
 
-#mod 'nrpe',
-#  :git => 'https://github.com/zia8m/nrpe.git',
-#  :ref => 'master'
