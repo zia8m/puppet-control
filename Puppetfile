@@ -14,5 +14,5 @@ forge "https://forge.puppet.com"
 
 mod 'apach',
   :git    => 'https://github.com/zia8m/apach.git',
-  :ref => 'production'
+  :ref => 'master'
 
