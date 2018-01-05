@@ -14,7 +14,7 @@ forge "https://forge.puppet.com"
 
 mod 'apach',
   :git    => 'https://github.com/zia8m/apach.git',
-  :branch => 'master'
+  :ref => 'master'
 
 #mod 'nrpe',
 #  :git => 'https://github.com/zia8m/nrpe.git',
