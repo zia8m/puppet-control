@@ -12,10 +12,10 @@ forge "https://forge.puppet.com"
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :commit => '83401079053dca11d61945bd9beef9ecf7576cbf'
 
-#mod 'apache',
-#  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
-#  :branch => 'docs_experiment'
+mod 'apach',
+  :git    => 'https://github.com/zia8m/apach.git',
+  :branch => 'master'
 
-mod 'nrpe',
-  :git => 'https://github.com/zia8m/nrpe.git',
-  :ref => 'master'
+#mod 'nrpe',
+#  :git => 'https://github.com/zia8m/nrpe.git',
+#  :ref => 'master'
